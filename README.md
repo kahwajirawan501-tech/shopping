@@ -1,6 +1,6 @@
 # shopping
 
-Skilled Handyworkers Marketplace is a platform that connects users with skilled workers for various services, communication, and service management.
+Shopping is a mobile application for displaying and browsing products, providing users with a simple and intuitive interface to explore available items.
 
 ## Screenshots
 
