@@ -4,13 +4,13 @@ Skilled Handyworkers Marketplace is a platform that connects users with skilled 
 
 ## Screenshots
 
-![Login Screen](screenshots/photo_1_2026-04-08_18-19-48.jpg)
-![Signin Screen](screenshots/photo_2_2026-04-08_18-19-48.jpg)
-![Home Screen](screenshots/photo_3_2026-04-08_18-19-48.jpg)
-![Details Screen](screenshots/photo_4_2026-04-08_18-19-48.jpg)
-![Drawer Screen](screenshots/photo_5_2026-04-08_18-19-48.jpg)
-![Search Screen](screenshots/photo_6_2026-04-08_18-19-48.jpg)
-![category Screen](screenshots/photo_6_2026-04-08_18-19-48.jpg)
+![Login Screen](Screenshots/photo_1_2026-04-08_18-19-48.jpg)
+![Signin Screen](Screenshots/photo_2_2026-04-08_18-19-48.jpg)
+![Home Screen](Screenshots/photo_3_2026-04-08_18-19-48.jpg)
+![Details Screen](Screenshots/photo_4_2026-04-08_18-19-48.jpg)
+![Drawer Screen](Screenshots/photo_5_2026-04-08_18-19-48.jpg)
+![Search Screen](Screenshots/photo_6_2026-04-08_18-19-48.jpg)
+![category Screen](Screenshots/photo_6_2026-04-08_18-19-48.jpg)
 
 ## Getting Started
 
